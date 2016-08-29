@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![logo](public/test.jpg)
+![logo](public/TVNews1.jpg)
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
 
