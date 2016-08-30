@@ -5,9 +5,9 @@ title: Home
 
 ![logo](public/TVNews1.jpg)
 
-I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
+Hi! Thanks for visiting my professional website. My name is Brooke Ballagh and I am a  [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) major at [The University of Iowa] (https://uiowa.edu).
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+Through the many journalism courses I have taken, I have discovered my passion of producing broadcast television. I hope to one day be a producer at a local TV station. Currently I am a producer at [Daily Iowan TV] (https://www.youtube.com/user/TheDailyIowan) and it is at Daily Iowan TV where I have learned about the world of producing. 
 
 ### Social media
 
