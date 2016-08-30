@@ -7,12 +7,12 @@ title: Resume
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+#### Daily Iowan TV
+##### Producer *August 2016 - Present*
 
-* list two or three
-* important achievements
+* wrote readers for the broadcast
+* monitored reporters
+* created visuals
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
 Brief description here.    
