@@ -7,17 +7,16 @@ title: Resume
 
 ### Education
 #### The University of Iowa, Iowa City, IA *anticipated May 2017*
-Bachelor of Arts: Journalism and Mass Communication 
-Certificate: Entrepreneurial Management 
+* Bachelor of Arts: Journalism and Mass Communication 
+* Certificate: Entrepreneurial Management 
 
-CIMBA Italy Undergraduate Study Abroad Program *Summer 2016*
+#### CIMBA Italy Undergraduate Study Abroad Program *Summer 2016*
 * Studied Journalism and Italian
 
-Academic Honors
+#### Academic Honors
 * 3.83 cumulative GPA
 * Member of Order of Omega Honors Fraternity
 * Named to the University Dean's List for 6 consecutive semesters
-
 
 ### Journalism Experience
 
@@ -28,18 +27,16 @@ Academic Honors
 * monitored reporters
 * created visuals
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
+#### Daily Iowan TV
+##### Associate Producer *March 2016 - May 2016*
+* Assisted the producer in developing a 15 minute newscast
+* Wrote readers
+* Found visuals
 
-* list two or three
-* important achievements
-* you want to emphasize
-
-
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
-
+#### Radio
+##### Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 2016*
+* Researched and wrote newsworthy stories for the KRUI listeners
+* Read the entire newscast live on KRUI
 
 ### College Leadership Positions
 #### Delta Delta Delta *August 2013 - Present*
@@ -59,9 +56,11 @@ Continuing Education Chairman
 * Implemented relevant presentations into chapter meetings about the traditions and history of Tri Delta and the chapter
 * Communicated with officers to make sure they were doing their jobs as a member of Officer Training Committee
 
-
-#### Iowa Raptor Project
-Something about birds.
+#### Dance Marathon *April 2014 - February 2015
+Morale Captain Assistant
+* Promoted a supportive and encouraging environment for dancers to reach their fundraising goals
+* Created, managed, and added dancers to group Facebook page 
+* Developed a positive, productive, and cooperative relationship with assigned Morale Captain
 
 ### Skills
 * Broadcast Writing
