@@ -15,7 +15,6 @@ Through the many journalism courses I have taken, I have discovered my passion o
 <p class="social-icons">
 <a href="https://twitter.com/brookeballagh"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
 <br>
-
 <br>
 <a href="www.linkedin.com/in/brooke-ballagh-33b91597"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
