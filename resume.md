@@ -22,7 +22,6 @@ title: Resume
 
 #### Daily Iowan TV
 ##### Producer *August 2016 - Present*
-
 * wrote readers for the broadcast
 * monitored reporters
 * created visuals
@@ -40,8 +39,8 @@ title: Resume
 
 ### College Leadership Positions
 #### Delta Delta Delta *August 2013 - Present*
-Pahellenic Delegate
 
+Pahellenic Delegate
 * Represented the opinions and decisions of Tri Delta in the College Panhellenic meetings
 * Promoted a supportive and encouraging environment between chapter members and other fraternities and sororities on campus	
 * Researched basic information about the other Greek organizations on campus and educated the chapter accordingly
@@ -57,6 +56,7 @@ Continuing Education Chairman
 * Communicated with officers to make sure they were doing their jobs as a member of Officer Training Committee
 
 #### Dance Marathon *April 2014 - February 2015*
+
 Morale Captain Assistant
 * Promoted a supportive and encouraging environment for dancers to reach their fundraising goals
 * Created, managed, and added dancers to group Facebook page 
