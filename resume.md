@@ -28,9 +28,9 @@ Producer *August 2016 - Present*
 
 #### Daily Iowan TV
 Associate Producer *March 2016 - May 2016*
-* Assisted the producer in developing a 15 minute newscast
-* Wrote readers
-* Found visuals
+  * Assisted the producer in developing a 15 minute newscast
+  * Wrote readers
+  * Found visuals
 
 #### Radio
 Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 2016*
