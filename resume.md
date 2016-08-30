@@ -2,8 +2,8 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+335 South Clinton Street., Iowa City, IA 52242  
+[brooke-ballaght@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) - (708) 601 - 8898
 
 ### Experience
 
@@ -28,12 +28,12 @@ Very brief description here. No bullets.
 
 
 ### College Activities
-#### Sigma Delta Chi
-Brief explanation
+#### Delta Delta Delta *August 2013 - Present*
+Pahellenic Delegate
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* Represented the opinions and decisions of Tri Delta in the College Panhellenic meetings
+* Promoted a supportive and encouraging environment between chapter members and other fraternities and sororities on campus	
+* Researched basic information about the other Greek organizations on campus and educated the chapter accordingly
 
 
 #### Iowa Raptor Project
