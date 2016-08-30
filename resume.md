@@ -56,7 +56,7 @@ Continuing Education Chairman
 * Implemented relevant presentations into chapter meetings about the traditions and history of Tri Delta and the chapter
 * Communicated with officers to make sure they were doing their jobs as a member of Officer Training Committee
 
-#### Dance Marathon *April 2014 - February 2015
+#### Dance Marathon *April 2014 - February 2015*
 Morale Captain Assistant
 * Promoted a supportive and encouraging environment for dancers to reach their fundraising goals
 * Created, managed, and added dancers to group Facebook page 
