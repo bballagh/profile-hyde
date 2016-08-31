@@ -5,14 +5,18 @@ title: Resume
 [brooke-ballagh@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) // (708) 601 - 8898
 
 ### Education
+
 #### The University of Iowa, Iowa City, IA *anticipated May 2017*
+
 * Bachelor of Arts: Journalism and Mass Communication 
 * Certificate: Entrepreneurial Management 
 
 #### CIMBA Italy Undergraduate Study Abroad Program *Summer 2016*
+
 * Studied Journalism and Italian
 
 #### Academic Honors
+
 * 3.83 cumulative GPA
 * Member of Order of Omega Honors Fraternity
 * Named to the University Dean's List for 6 consecutive semesters
@@ -37,6 +41,7 @@ Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 
 * Read the entire newscast live on KRUI
 
 ### College Leadership Positions
+
 #### Delta Delta Delta *August 2013 - Present*
 
 Pahellenic Delegate
