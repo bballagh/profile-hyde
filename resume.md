@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 ---
-[brooke-ballaght@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) // (708) 601 - 8898
+[brooke-ballagh@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) // (708) 601 - 8898
 
 ### Education
 #### The University of Iowa, Iowa City, IA *anticipated May 2017*
