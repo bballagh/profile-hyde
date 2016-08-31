@@ -25,17 +25,20 @@ title: Resume
 
 #### Daily Iowan TV
 Producer *August 2016 - Present*
+
 * wrote readers for the broadcast
 * monitored reporters
 * created visuals
 
 #### Daily Iowan TV
 Associate Producer *March 2016 - May 2016*
+
 * Assisted the producer in developing a 15 minute newscast
 * Wrote readers
 * Found visuals
 
 #### Radio
+
 Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 2016*
 * Researched and wrote newsworthy stories for the KRUI listeners
 * Read the entire newscast live on KRUI
@@ -71,6 +74,7 @@ Morale Captain Assistant
 * Developed a positive, productive, and cooperative relationship with assigned Morale Captain
 
 ### Skills
+
 * Broadcast Writing
 * Adobe Premiere
 * Social Media
