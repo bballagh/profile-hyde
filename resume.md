@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 ---
 335 South Clinton Street., Iowa City, IA 52242  
-[brooke-ballaght@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) - (708) 601 - 8898
+[brooke-ballaght@uiowa.edu](mailto:brooke-ballagh@uiowa.edu) // (708) 601 - 8898
 
 ### Education
 #### The University of Iowa, Iowa City, IA *anticipated May 2017*
