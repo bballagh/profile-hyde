@@ -45,16 +45,19 @@ Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 
 #### Delta Delta Delta *August 2013 - Present*
 
 Pahellenic Delegate
+
 * Represented the opinions and decisions of Tri Delta in the College Panhellenic meetings
 * Promoted a supportive and encouraging environment between chapter members and other fraternities and sororities on campus	
 * Researched basic information about the other Greek organizations on campus and educated the chapter accordingly
 
 Rho Gamma
+
 * Provided guidance for Potential New Members participating in the formal recruitment process
 * Acted not only as a support system for the Potential New Members, but for the Recruitment Team as well
 * Attended regular training sessions and meetings from the time of selection through the end of the formal recruitment process
 
 Continuing Education Chairman
+
 * Planned and scheduled two in house educational programs for the entire chapter
 * Implemented relevant presentations into chapter meetings about the traditions and history of Tri Delta and the chapter
 * Communicated with officers to make sure they were doing their jobs as a member of Officer Training Committee
@@ -62,6 +65,7 @@ Continuing Education Chairman
 #### Dance Marathon *April 2014 - February 2015*
 
 Morale Captain Assistant
+
 * Promoted a supportive and encouraging environment for dancers to reach their fundraising goals
 * Created, managed, and added dancers to group Facebook page 
 * Developed a positive, productive, and cooperative relationship with assigned Morale Captain
