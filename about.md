@@ -18,7 +18,7 @@ Here are some of the news packages I wrote, produced, and edited for Daily Iowan
 
 ## Producing
 
-I am currently a producer at Daily Iowan TV. Here a sample of my producing work.
+I am currently a producer at Daily Iowan TV. Here is sample of my producing work.
 
 * [Friday, Aug. 26, 2016](https://youtu.be/_8kA7Od0LdI)
 
