@@ -30,7 +30,7 @@ Producer *August 2016 - Present*
 * monitored reporters
 * created visuals
 
-#### Daily Iowan TV
+
 Associate Producer *March 2016 - May 2016*
 
 * Assisted the producer in developing a 15 minute newscast
