@@ -37,9 +37,9 @@ Associate Producer *March 2016 - May 2016*
 * Wrote readers
 * Found visuals
 
-#### Radio
+#### Radio: KRUI at the University of Iowa
 
-Produced 2 radio newscasts for KRUI at the University of Iowa *February & April 2016*
+Produced 2 radio newscasts for KRUI *February & April 2016*
 
 * Researched and wrote newsworthy stories for the KRUI listeners
 * Read the entire newscast live on KRUI
