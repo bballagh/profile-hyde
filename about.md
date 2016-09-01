@@ -5,6 +5,9 @@ title: Portfolio
 
 
 
+Currently I am a producer at [Daily Iowan TV](https://www.youtube.com/user/TheDailyIowan). Through working at Daily Iowan TV, I have been able to learn about the world broadcast news and develop my skills as a broadcast news producer.
+
+
 ## Reporting
 
 Here are some of the news packages I wrote, produced, and edited. All of these packages aired on Daily Iowan TV.
