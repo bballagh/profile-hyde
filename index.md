@@ -14,5 +14,6 @@ Through the many journalism courses I have taken, I have discovered my passion o
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
 <p class="social-icons">
 <a href="https://twitter.com/brookeballagh"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
+<a href="https://www.youtube.com/channel/UC7lv9zcUwDOzMnLZlq6A6Qw"><i class="fa fa-youtube-square" aria-hidden="true"></i>YouTube</a>
 <a href="www.linkedin.com/in/brooke-ballagh-33b91597"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
