@@ -14,6 +14,9 @@ title: Resume
 #### CIMBA Italy Undergraduate Study Abroad Program *Summer 2016*
 
 
+
+
+
 #### Academic Honors
 
 * Member of Order of Omega Honors Fraternity
