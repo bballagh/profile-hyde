@@ -5,12 +5,12 @@ title: Portfolio
 
 
 
-Currently I am a producer at [Daily Iowan TV](https://www.youtube.com/user/TheDailyIowan). Through working at Daily Iowan TV, I have had the opportunity to both report and produce. This experience has allowed me to learn about the world broadcast news and develop my skills as both a broadcast news producer and reporter.
+Currently I am a producer at [Daily Iowan TV](https://www.youtube.com/user/TheDailyIowan). At Daily Iowan TV, I have been both a reporter and producer.
 
 
 ## Reporting
 
-Here are some of the news packages I wrote, produced, and edited for Daily Iowan TV.
+The following are news packages I wrote, produced and edited for Daily Iowan TV.
 
 * [UI Dance Club](https://youtu.be/PSW7a0dhT0c)
 * [Plastic Bags at the UI](https://youtu.be/X9-X8jmiuUY)
@@ -18,10 +18,7 @@ Here are some of the news packages I wrote, produced, and edited for Daily Iowan
 
 ## Producing
 
-I am currently a producer at Daily Iowan TV. Here is a sample of my producing work.
+Here is a more detailed look at my producing work.
 
 * [Friday, Aug. 26, 2016](https://youtu.be/_8kA7Od0LdI)
 
-
-
-Thanks for viewing!
