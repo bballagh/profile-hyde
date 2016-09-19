@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![logo](public/TVNews1.jpg)
+![logo](public/newpic.jpg)
 
 Hi! My name is Brooke Ballagh and I am a [Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) major at [The University of Iowa](https://uiowa.edu).
 
